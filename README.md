@@ -12,13 +12,13 @@ Jeżeli masz lepszą propozycję to wiedz, że PRy są mile widziane!
 | assembly | | zestaw (niegdyś pakiet) |
 | automatic memory management | | automatyczne zarządzanie pamięcią |
 | Base Class Library | BCL | biblioteka klas bazowych |
-| boxing | | konwersja |
+| boxing | | opakowywanie |
 | code sharing | | udostępnianie kodu |
 | Common Intermediate Language | CIL | wspólny język pośredni |
 | Common Language Infrastructure | CLI | infrastruktura języka wspólnego |
 | Common Language Runtime | CLR | środowisko uruchomieniowe języka wspólnego |
 | Common Language Specification | CLS | specyfikacja języka wspólnego |
-| Common Type System | CTS | system typu wspólnego |
+| Common Type System | CTS | wspólny system typów |
 | dangling pointer | | wiszący wskaźnik |
 | Debug Interchange Format | | format wymiany informacji debugowania |
 | delegate | | delegat |
