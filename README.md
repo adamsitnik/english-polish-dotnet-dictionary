@@ -10,6 +10,8 @@ Jeżeli masz lepszą propozycję to wiedz, że PRy są mile widziane!
 | AppDomain | | domena aplikacji |
 | Application Programming Interface | API | interfejs programowania aplikacji |
 | assembly | | zestaw (niegdyś pakiet) |
+| async | | asynchroniczny |
+| await | | oczekiwać |
 | automatic memory management | | automatyczne zarządzanie pamięcią |
 | Base Class Library | BCL | biblioteka klas bazowych |
 | boxing | | opakowywanie |
