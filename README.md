@@ -25,6 +25,7 @@ Jeżeli masz lepszą propozycję to wiedz, że PRy są mile widziane!
 | Debug Interchange Format | | format wymiany informacji debugowania |
 | delegate | | delegat |
 | event | | zdarzenie |
+| extension method | | metoda rozszejąca |
 | field | | pole |
 | finalization | | finalizacja |
 | finalizer | | finalizator |
